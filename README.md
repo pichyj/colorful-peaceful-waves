@@ -18,4 +18,4 @@ an additional wave above to form more waves coming onto shore. The shift propert
 allows for different variations of each rectangle that corresponds to a color to be thinner or thicker and this helps out
 with waves in order for not everything to be the exact same size. 
 
-This assignment was created in CMPM 35 Fall 2021 at University of California Santa Cruz
+note: This assignment was created in CMPM 35 Fall 2021 at University of California Santa Cruz. The engine.js file was created by [Prof. Adam Smith at UC Santa Cruz](https://engineering.ucsc.edu/people/amsmith).
